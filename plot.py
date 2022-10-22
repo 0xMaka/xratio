@@ -34,5 +34,5 @@ for label in ax.get_yaxis().get_ticklabels()[::2]:
 
 ax.set_facecolor('#100459')
 
-plt.savefig('chart.png', facecolor='#0A0226', dpi=300)
+#plt.savefig('chart.png', facecolor='#0A0226', dpi=300)
 plt.show()
