@@ -8,12 +8,10 @@ for i in p:
   y.append(f'{float(p[i]):.3f}')
 
 # init chart
-plt.figure(facecolor='#060337')#'#0A0226')
-# plt.rcParams["figure.figsize"] = (8,5.5)
+plt.figure(facecolor='#0A0226')
 plt.style.use('dark_background')
 
 plt.plot(x,y, '-.', c='#27DEF2', linewidth=3)
-#plt.grid()
 
 f0 = {'family':'Source Code Pro','color':'#27DEF2','size':40} 
 f1 = {'family':'Source Code Pro','color':'#D621C1','size':30}
@@ -36,5 +34,5 @@ for label in ax.get_yaxis().get_ticklabels()[::2]:
 
 ax.set_facecolor('#100459')
 
+plt.savefig('chart.png', facecolor='#0A0226', dpi=300)
 plt.show()
-# plt.savefig('xSushiRatio.png')

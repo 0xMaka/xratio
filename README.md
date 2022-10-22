@@ -1,6 +1,6 @@
 # xSushi Historical Ratio
 
-- Some quick and dirty hacks to map xsushi ratio over time.
+- Some quick scripts to plot xsushi ratio over time.
 
 ![image](https://user-images.githubusercontent.com/12489182/197321925-96b4fd98-7fd5-4a56-ba45-3ef368732ab4.png)
 
