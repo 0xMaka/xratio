@@ -2,7 +2,7 @@
 
 - Some quick scripts to plot xsushi ratio over time.
 
-![xs](https://user-images.githubusercontent.com/12489182/197325181-c2f8bbf4-74b2-48b3-9b9f-a7c9e7532b1f.png)
+![4Swm0ja](https://user-images.githubusercontent.com/12489182/197374072-12509ef2-ac81-4240-8615-9aa4ea3feb64.png)
 
 
 |  Block   |          xSushiSushiRatio            |           sushiXsushiRatio          |    Date    |
