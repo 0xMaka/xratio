@@ -116,3 +116,7 @@
 | 15652343 | 0.743660998277283036707179601606303 | 1.344698730088757260152429461163195 | 01-10-2022 |
 | 15697843 | 0.7436609985363072816864682116679342 | 1.344698729620385819440330238819853 | 07-10-2022 |
 | 15743343 | 0.743660998458082543094754688066609 | 1.344698729761832939602963115195348 | 14-10-2022 |
+
+
+**NOTE** This example takes an average number of ethereum blocks per day, and multiplys by 7 to obtain the weekly ticks.
+For an approach using subgraph weeklySnapshots, check out my freinds script here: https://github.com/CarpeCryptum/SUSHI-xSUSHI-Ratio
